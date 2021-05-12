@@ -1,8 +1,7 @@
 # Hi there, I'm Marcos Rocha👋
 
 ## 🔧 Technologies & Tools
-<details>
-  
+
 ### :desktop_computer: Operating System
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=813DD1)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=813DD1)
@@ -21,8 +20,6 @@
 ### :bookmark_tabs:	 Others
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=813DD1)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=813DD1)
-
-</details>
 
 ## Social
 
