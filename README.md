@@ -7,10 +7,11 @@
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=813DD1)
 
 ### :man_technologist: Programming Languages
-![](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=C&logoColor=white&color=813DD1)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=813DD1)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=813DD1)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=813DD1)
+![](https://img.shields.io/badge/-C/C++-informational?style=flat&logo=C&logoColor=white&color=813DD1)
+![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=813DD1)
+![](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=white&color=813DD1)
+![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=813DD1)
+![](https://img.shields.io/badge/-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=813DD1)
 
 ### :space_invader: Command-line Interfaces
 ![](https://img.shields.io/badge/CLI-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=813DD1)
@@ -29,10 +30,9 @@
 
 ## GitHub ![Profile Views](https://komarev.com/ghpvc/?username=mflipe&color=blue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mflipe&theme=midnight-purple&hide_border=true&hide=javascript,html&layout=compact&bg_color=0D1117)](https://github.com/mflipe)
-
+![Snake animation](https://github.com/mflipe/mflipe/blob/output/github-contribution-grid-snake.svg)
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=mflipe&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117)](https://github.com/mflipe)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mflipe&theme=midnight-purple&hide_border=true&hide=javascript,html&layout=compact&bg_color=0D1117)](https://github.com/mflipe)
 
 [![NAME Badge](https://img.shields.io/badge/%C2%A9_Marcos_Rocha-2021-red?&style=for-the-badge)](https://www.linkedin.com/in/marcosfeliperocha/)
 
