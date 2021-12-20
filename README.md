@@ -5,6 +5,8 @@
 ### :desktop_computer: Operating System
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=813DD1)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=813DD1)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=813DD1)
+
 
 ### :man_technologist: Programming Languages
 ![](https://img.shields.io/badge/-C/C++-informational?style=flat&logo=C&logoColor=white&color=813DD1)
@@ -12,11 +14,15 @@
 ![](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=white&color=813DD1)
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=813DD1)
 ![](https://img.shields.io/badge/-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=813DD1)
+![](https://img.shields.io/badge/-Swift-informational?style=flat&logo=swift&logoColor=white&color=813DD1)
 
 ### :space_invader: Command-line Interfaces
 ![](https://img.shields.io/badge/CLI-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=813DD1)
+![](https://img.shields.io/badge/CLI-Azure%20Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=813DD1)
 ![](https://img.shields.io/badge/CLI-CMD-informational?style=flat&logo=windows-terminal&logoColor=white&color=813DD1)
 ![](https://img.shields.io/badge/CLI-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=813DD1)
+![](https://img.shields.io/badge/CLI-Azure%20PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=813DD1)
+
 
 ### :bookmark_tabs:	 Others
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=813DD1)
