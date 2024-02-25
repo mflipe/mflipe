@@ -31,7 +31,7 @@
 ## Social
 
 [![LINKEDIN Badge](https://img.shields.io/badge/LinkedIn-Marcos_Rocha-blue?style=social&logo=LinkedIn&link=https://www.linkedin.com/in/marcosfeliperocha/)](https://www.linkedin.com/in/marcosfeliperocha/)
-[![MAIL Badge](https://img.shields.io/badge/Email-marcos.fellps@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:marcos.fellps@gmail.com)](mailto:marcos.fellps@gmail.com)
+[![MAIL Badge](https://img.shields.io/badge/Email-marcosrocha.dev@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:marcosrocha.dev@gmail.com)](mailto:marcosrocha.dev@gmail.com)
 [![BLOG Badge](https://img.shields.io/badge/Blog-https://marcosfellps.wordpress.com/-blue?style=plastic&logo=WordPress&logoColor=white&link=https://marcosfellps.wordpress.com/)](https://marcosfellps.wordpress.com/)
 
 ## GitHub ![Profile Views](https://komarev.com/ghpvc/?username=mflipe&color=blue)
